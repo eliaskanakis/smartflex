@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aberonServices", "aberonServices\aberonServices.csproj", "{6C469EB8-8087-4C21-957D-440095CB2995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aberonServices.Tests", "aberonServices.Tests\aberonServices.Tests.csproj", "{9D467B0E-2B12-4970-8EC4-369F6DFEFCB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C469EB8-8087-4C21-957D-440095CB2995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C469EB8-8087-4C21-957D-440095CB2995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C469EB8-8087-4C21-957D-440095CB2995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C469EB8-8087-4C21-957D-440095CB2995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D467B0E-2B12-4970-8EC4-369F6DFEFCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D467B0E-2B12-4970-8EC4-369F6DFEFCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D467B0E-2B12-4970-8EC4-369F6DFEFCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D467B0E-2B12-4970-8EC4-369F6DFEFCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5911011A-5F12-4302-A280-2B7811BB5FAE}
+	EndGlobalSection
+EndGlobal
